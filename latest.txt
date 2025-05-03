@@ -1,2 +1,0 @@
-v1.1
-https://github.com/OfficialAlexCoder/ContactProgram/releases/download/v1.1/v1.1.zip
